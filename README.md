@@ -1,2 +1,34 @@
 # Test_Sumatoria
-Sopa de letras - Test para entrevista
+Sopa de letras
+
+Objetivo
+Hacer un programa que, para una sopa de letras dada, escriba cuantas veces aparece la
+palabra "OIE" dentro de ella, ya sea horizontalmente, verticalmente, o en diagonal. (En
+total, hay que comprobar 8 sentidos diferentes.)
+Entrada
+La entrada consiste en seleccionar una de las matrices del “listado de matrices” en un
+select y enviar el request al servidor.
+Salida
+Para cada sopa de letras, hay que escribir cuantas veces aparece "OIE" dentro de
+ella. Listado de matrices
+
+3 3
+OIE
+IIX
+EXE
+1 10
+EIOIEIOEIO
+5 5
+EAEAE
+AIIIA
+EIOIE
+AIIIA
+EAEAE
+7 2
+OX
+IO
+EX
+II
+OX
+
+IEEX
